@@ -7,15 +7,15 @@ Bu repo, DOTNETDEVNOT2024 konferansına ait materyalleri içermektedir. Aşağı
 - [x] 1 - From Chaos to Clarity The Power of Refactoring -- Zikriye Ürkmez (Navlungo)
 - [x] 2 - Are Your .NET 8 Applications Resilient for the Chaos-proof -- Selçuk Usta (Hepsiburada)
 - [x] 3 - Writing High-Performance C# and .NET Code -- Mert Güner (adesso Turkey)
-- [ ] 4 - Advanced Authorization Management in .NET Core -- Bora Kaşmer (Keepnet Labs)
-- [x] 5 - Navigating Generative AI A Developer's Guide -- Alper Hankendi (Hepsiburada)
+- [x] 4 - Advanced Authorization Management in .NET Core -- Bora Kaşmer (Keepnet Labs)
+- [ ] 5 - Navigating Generative AI A Developer's Guide -- Alper Hankendi (Hepsiburada)
 - [ ] 6 - Deep Dive into Asynchronous Programming in C# -- Salih Cantekin (Next)
 - [x] 7 - ASP.NET Core ile Multi-tenant Uygulama Geliştirme -- Alper Ebiçoğlu (Volosoft)
-- [x] 8 - DevOps Perspective Building Event Driven Microservice Architecture in .NET -- Barış Ceviz (Just Eat Takeaway)
+- [ ] 8 - DevOps Perspective Building Event Driven Microservice Architecture in .NET -- Barış Ceviz (Just Eat Takeaway)
 
 ## Salon-2
 
-- [x] 1 - Implementing Retrieval Augmented Generation (RAG) in .NET -- Mert Yeter (360 Lifecycle)
+- [ ] 1 - Implementing Retrieval Augmented Generation (RAG) in .NET -- Mert Yeter (360 Lifecycle)
 - [x] 2 - .NET ile “Feature Flagging” Deploy Etmeden Uygulama Güncelleme -- Nagihan Sema Kudu (Analog Devices)
 - [ ] 3 - Scaling Your SignalR Application Up & Down Horizontally -- Onur Salkaya (BtcTurk Teknoloji)
 - [ ] 4 - Clean Architecture with .NET 8 -- Onur Şafak (Nesine)
@@ -30,7 +30,7 @@ Bu repo, DOTNETDEVNOT2024 konferansına ait materyalleri içermektedir. Aşağı
 - [ ] 2 - Soru & Cevap Yapay Zekâ Yazılımcının İşini Nasıl Etkileyecek -- Bora Kaşmer, Mert Yeter, Salih Cantekin
 - [ ] 3 - Discovering Behind of the Scene of Messaging Libraries -- Emre Hızlı (HighBrains)
 - [ ] 4 - Reactive Programming with .NET MAUI -- Enis Neçipoğlu (Volosoft)
-- [x] 5 - Upgrading .NET Project in Minutes -- Onur Demirel (Turkish Technology)
+- [ ] 5 - Upgrading .NET Project in Minutes -- Onur Demirel (Turkish Technology)
 - [ ] 6 - Tracing the Future Enhanced Observability in .NET with OpenTelemetry -- Deniz Irgin (Armut)
 
 ## Katkıda Bulunma
