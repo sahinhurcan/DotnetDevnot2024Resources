@@ -1,6 +1,6 @@
 # DOTNETDEVNOT2024 Konferans Materyalleri
 
-Bu repo, DOTNETDEVNOT2024 konferansına ait materyalleri içermektedir. Aşağıda, her salon için sunumların eklendiğini ve eksik olanları belirten bir kontrol listesi bulunmaktadır. Eksik olan sunumlara sahipseniz, bu depoyu tamamlamak için katkıda bulunabilirsiniz.
+Bu repo, DOTNETDEVNOT2024 konferansına ait materyalleri içermektedir. Aşağıda, her salon için sunumların eklendiğini ve eksik olanları belirten bir liste bulunmaktadır. Eksik olan sunumlara sahipseniz, bu repoyu tamamlamak için katkıda bulunabilirsiniz.
 
 ## Salon-1
 
