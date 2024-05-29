@@ -21,7 +21,7 @@ Bu repo, DOTNETDEVNOT2024 konferansına ait materyalleri içermektedir. Aşağı
 - [ ] 4 - Clean Architecture with .NET 8 -- Onur Şafak (Nesine)
 - [ ] 5 - .NET on AWS .. AWS Microsoft Modernization Tools -- Orhan Burak Bozan (Kloia)
 - [x] 6 - Geleceğin Kodlayıcıları için ML.NET Makine Öğreniminde Yeni Yollar -- Kardel Rüveyda Çetin (Doğuş Teknoloji)
-- [ ] 7 - Applying CQRS with .NET Core in Financial Technologies -- Murat Dinç (Sipay)
+- [x] 7 - Applying CQRS with .NET Core in Financial Technologies -- Murat Dinç (Sipay)
 - [ ] 8 - Kısmen Mikroservis Bir Uygulamada Multitenancy Dönüşümü -- Muhammed Hilmi Koca (RoofStacks)
 
 ## Salon-3
