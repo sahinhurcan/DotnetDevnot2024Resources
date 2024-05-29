@@ -17,7 +17,7 @@ Bu repo, DOTNETDEVNOT2024 konferansına ait materyalleri içermektedir. Aşağı
 
 - [ ] 1 - Implementing Retrieval Augmented Generation (RAG) in .NET -- Mert Yeter (360 Lifecycle)
 - [x] 2 - .NET ile “Feature Flagging” Deploy Etmeden Uygulama Güncelleme -- Nagihan Sema Kudu (Analog Devices)
-- [ ] 3 - Scaling Your SignalR Application Up & Down Horizontally -- Onur Salkaya (BtcTurk Teknoloji)
+- [x] 3 - Scaling Your SignalR Application Up & Down Horizontally -- Onur Salkaya (BtcTurk Teknoloji)
 - [ ] 4 - Clean Architecture with .NET 8 -- Onur Şafak (Nesine)
 - [ ] 5 - .NET on AWS .. AWS Microsoft Modernization Tools -- Orhan Burak Bozan (Kloia)
 - [x] 6 - Geleceğin Kodlayıcıları için ML.NET Makine Öğreniminde Yeni Yollar -- Kardel Rüveyda Çetin (Doğuş Teknoloji)
