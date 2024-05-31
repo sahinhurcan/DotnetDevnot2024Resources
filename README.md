@@ -8,7 +8,7 @@ Bu repo, DOTNETDEVNOT2024 konferansına ait materyalleri içermektedir. Aşağı
 - [x] 2 - Are Your .NET 8 Applications Resilient for the Chaos-proof -- Selçuk Usta (Hepsiburada)
 - [x] 3 - Writing High-Performance C# and .NET Code -- Mert Güner (adesso Turkey)
 - [x] 4 - Advanced Authorization Management in .NET Core -- Bora Kaşmer (Keepnet Labs)
-- [ ] 5 - Navigating Generative AI A Developer's Guide -- Alper Hankendi (Hepsiburada)
+- [x] 5 - Navigating Generative AI A Developer's Guide -- Alper Hankendi (Hepsiburada)
 - [x] 6 - Deep Dive into Asynchronous Programming in C# -- Salih Cantekin (Next)
 - [x] 7 - ASP.NET Core ile Multi-tenant Uygulama Geliştirme -- Alper Ebiçoğlu (Volosoft)
 - [ ] 8 - DevOps Perspective Building Event Driven Microservice Architecture in .NET -- Barış Ceviz (Just Eat Takeaway)
